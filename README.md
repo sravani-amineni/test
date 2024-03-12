@@ -2,4 +2,6 @@
 
  This is my new JAVA project
  I LOVE JAVA
- JAVA is aesome
+ CORE JAVA IS EASY 
+ 
+
